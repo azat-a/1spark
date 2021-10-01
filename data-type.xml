@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./template.xsl"?>
+
+<result xmlns="" xmlns:xlink="http://www.w3.org/TR/xlink" module="content" method="content" domain="reshenie-n.ru" domain-id="1" domain-url="https://reshenie-n.ru" system-build="91792" lang="ru" lang-id="1" header="1СПАРК Риски — проверка контрагентов в программе 1С" title="Решение-Н —  1СПАРК Риски" site-name="umicms.demo site" csrf="22a6a5ad09fa2495e55697073d5066f4" request-url="https://reshenie-n.ru/spark-landing1.xml" template-id="9" pageId="2183" is-default="" request-uri="/spark-landing1.xml">
+  <meta>
+    <keywords><![CDATA[1С для автоматизации бизнеса]]></keywords>
+    <description><![CDATA[Установка и настройка 1С и другого ПО. Предоставим и внедрим нужное оборудование в эксплуатацию, обеспечивая комфортную работу.]]></description>
+  </meta>
+  <user id="182" status="auth" login="admin" xlink:href="uobject://182" type="sv"/>
+  <parents/>
+  <page id="2183" parentId="0" link="/spark-landing1/" object-id="2927" type-id="171" type-guid="1spark-type" alt-name="spark-landing1" update-time="1629992430" xlink:href="upage://2183" is-active="1">
+    <name><![CDATA[1СПАРК лендинг тест шаблона]]></name>
+    <basetype id="30" module="content" hide-pages="0"><![CDATA[Страницы контента]]></basetype>
+    <properties>
+      <group id="548" name="common">
+        <title><![CDATA[Общие настройки]]></title>
+        <tip><![CDATA[]]></tip>
+        <property id="560" object-id="2927" name="title" type="string" is-important="1">
+          <title><![CDATA[Title]]></title>
+          <value><![CDATA[1СПАРК Риски]]></value>
+        </property>
+        <property id="561" object-id="2927" name="phone" type="string" is-important="1">
+          <title><![CDATA[Номер телефона (+79993331100)]]></title>
+          <value><![CDATA[+78342333997]]></value>
+        </property>
+        <property id="562" object-id="2927" name="phone-visible" type="string" is-important="1">
+          <title><![CDATA[Номер телефона (+7 (999) 333-11-01)]]></title>
+          <value><![CDATA[+7 (8342) 333-997 (многоканальный)]]></value>
+        </property>
+        <property id="564" object-id="2927" name="h1" type="string" is-important="1">
+          <title><![CDATA[Заголовок H1]]></title>
+          <value><![CDATA[1СПАРК Риски — проверка контрагентов в программе 1С]]></value>
+        </property>
+      </group>
+      <group id="549" name="tariffs">
+        <title><![CDATA[Тарифы]]></title>
+        <tip><![CDATA[]]></tip>
+        <property id="565" object-id="2927" name="1spark-risks" type="string" is-important="1">
+          <title><![CDATA[1СПАРК Риски]]></title>
+          <value><![CDATA[3000 рублей в год]]></value>
+        </property>
+        <property id="566" object-id="2927" name="1spark-risks-plus" type="string" is-important="1">
+          <title><![CDATA[1СПАРК Риски+]]></title>
+          <value><![CDATA[22 500 рублей в год]]></value>
+        </property>
+      </group>
+      <group id="550" name="social">
+        <title><![CDATA[Соцсети]]></title>
+        <tip><![CDATA[]]></tip>
+        <property id="567" object-id="2927" name="facebook" type="string" is-important="1" restriction="httpUrl">
+          <title><![CDATA[Facebook]]></title>
+          <value><![CDATA[https://www.facebook.com/groups/1335444406537920/]]></value>
+        </property>
+        <property id="568" object-id="2927" name="instagram" type="string" is-important="1" restriction="httpUrl">
+          <title><![CDATA[Instagram]]></title>
+          <value><![CDATA[https://www.instagram.com/reshenie.n.1c]]></value>
+        </property>
+        <property id="569" object-id="2927" name="vkontakte" type="string" is-important="1" restriction="httpUrl">
+          <title><![CDATA[ВКонтакте]]></title>
+          <value><![CDATA[https://vk.com/club103539269]]></value>
+        </property>
+        <property id="570" object-id="2927" name="whatsapp" type="string" is-important="1" restriction="httpUrl">
+          <title><![CDATA[WhatsApp (wa.me)]]></title>
+          <value><![CDATA[https://wa.me/79093275000?text=Хочу%201СПАРК%20Риски!]]></value>
+        </property>
+      </group>
+    </properties>
+  </page>
+</result>
